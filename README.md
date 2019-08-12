@@ -1,0 +1,4 @@
+## cotte-tree
+## License
+
+MIT
